@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "959285236848",
+    "firebase_url": "https://lifevizeapp-default-rtdb.firebaseio.com",
+    "project_id": "lifevizeapp",
+    "storage_bucket": "lifevizeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959285236848:android:191db3519a513c6dd390b5",
+        "android_client_info": {
+          "package_name": "com.alarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959285236848-f8l95v5t8873gkib3kh9ce4sjbf2dcon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNxqy4lcmbllZ9iekFn2h9CgrLdZqTfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959285236848-f8l95v5t8873gkib3kh9ce4sjbf2dcon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959285236848:android:86dc409d6d839168d390b5",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959285236848-f8l95v5t8873gkib3kh9ce4sjbf2dcon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNxqy4lcmbllZ9iekFn2h9CgrLdZqTfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959285236848-f8l95v5t8873gkib3kh9ce4sjbf2dcon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
